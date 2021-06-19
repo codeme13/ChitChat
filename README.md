@@ -38,7 +38,7 @@
     A ChitChat made using  HTML,CSS,NodeJS,Socket.io and expressJS.  <br />
      A part of my major project VideoSharing in which many friends collaborate and watch movies and chat .
   
-    <a href="">View Website</a>
+    <a href="https://ChitChat.codeme13.repl.co">View Website</a>
     ·
     <a href="https://github.com/codeme13/ChitChat/issues">Report Bug</a>
     ·
